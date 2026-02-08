@@ -1,0 +1,6 @@
+imageio-ffmpeg
+numpy
+scipy
+streamlit
+torch
+deepfilternet
