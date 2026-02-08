@@ -2,6 +2,6 @@ imageio-ffmpeg
 numpy
 scipy
 streamlit
-torch
-torchaudio
-deepfilternet
+torch==2.1.2
+torchaudio==2.1.2
+deepfilternet==0.5.6
