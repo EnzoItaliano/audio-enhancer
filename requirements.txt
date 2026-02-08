@@ -3,4 +3,5 @@ numpy
 scipy
 streamlit
 torch
+torchaudio
 deepfilternet
